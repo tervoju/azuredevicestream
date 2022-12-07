@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "IoTHubDeviceStreamSample.DeviceProxy": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "IOTHUB_DEVICE_CONNECTION_STRING": "HostName=<your-hub>.azure-devices.net;DeviceId=<your-device>;SharedAccessKey=<access_key>",
+        "SSH_DAEMON_HOSTNAME": "<address>",
+        "SSH_DAEMON_PORT": "<port>"
+      }
+    }
+  }
+}

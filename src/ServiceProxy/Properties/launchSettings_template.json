@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "IoTHubDeviceStreamSample.ServiceProxy": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "IOTHUB_SERVICE_CONNECTION_STRING": "<service access string>",
+        "IOTHUB_DEVICE_IDENTIFIER": "<>",
+        "SSH_PORT": "2222"
+      }
+    }
+  }
+}
