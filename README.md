@@ -17,3 +17,6 @@ Further information: https://www.fzankl.de/en/blog/remote-access-for-iot-devices
 ## How to run this sample
 
 To run this example you have to provide valid IoT Hub configuration via *launchSettings.json* for DeviceProxy and ServiceProxy.
+
+## microsoft material
+https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-streams-overview
