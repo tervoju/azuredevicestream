@@ -20,3 +20,12 @@ To run this example you have to provide valid IoT Hub configuration via *launchS
 
 ## microsoft material
 https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-streams-overview
+
+
+https://github.com/Azure-Samples/azure-iot-samples-csharp/tree/preview/iot-hub/Samples/service/DeviceStreamingSample
+https://www.nuget.org/packages/Microsoft.Azure.Devices.Client/1.41.0-preview-001 - seems not to have the device stream feature
+
+
+netstandard2.1
+- Microsoft.Azure.Devices.Client contains devicestream
+https://nuget.info/packages/Microsoft.Azure.Devices.Client/1.32.0-preview-001 - seems to have the device stream feature
